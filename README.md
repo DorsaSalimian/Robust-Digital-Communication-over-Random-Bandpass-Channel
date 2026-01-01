@@ -36,7 +36,7 @@ The channel is modeled as:
     Band attenuation factor: α
     Noise model:
         Additive White Gaussian Noise (AWGN)
-        N(t)∼N(0,σ2)N(t)∼N(0,σ2)
+        N(t)∼N(0,σ2)
     Signal clipping to simulate hardware nonlinearities
     Unknown random delay between input and output
 
